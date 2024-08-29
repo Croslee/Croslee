@@ -3,7 +3,13 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006249017266) 
 
 # 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Tech Stack
+
+![Pascal](https://img.shields.io/badge/Code-Pascal-yellowgreen)
+![C](https://img.shields.io/badge/Code-C-blue)
+![C++](https://img.shields.io/badge/Code-C++-blue)
+![Microsoft SQL Server](https://img.shields.io/badge/Database-Microsoft_SQL_Server-red)
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Croslee&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Croslee&theme=radical&hide_border=false)<br/>
