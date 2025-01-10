@@ -15,6 +15,7 @@ Hi there! I'm Le Duc Khanh Toan, a third-year student at Ho Chi Minh City Univer
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=fff)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-red)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 # 📊GitHub Stats :
