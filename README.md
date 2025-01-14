@@ -34,12 +34,15 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=Croslee&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="200px">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Croslee&theme=radical&hide_border=false" alt="GitHub Streak" height="200px">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croslee&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="50%" height="200px">
+  
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Croslee&theme=radical&hide_border=false" alt="GitHub Streak" height="200px">  -->
+  
 </div>  
 
-<div align="center">  
+<!--<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Croslee&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="50%">  
-</div>    
+</div>    -->
 
 ---
 
