@@ -6,7 +6,7 @@
 
 🎓 **Third-year student** at **Ho Chi Minh City University of Information and Communication Technology**.  
 
-💻 Passionate about **programming**, especially **web development**.  
+💻 Passionate about **programming**.
 
 🚀 Currently focused on enhancing my skills in **React** and **JavaScript**.  
 </td>
