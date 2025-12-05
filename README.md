@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-🎓 **Third-year student** at **Ho Chi Minh City University of Information and Communication Technology**.  
+🎓 **Fourth-year student** at **Ho Chi Minh City University of Information and Communication Technology**.  
 
 💻 Passionate about **programming**.
 
