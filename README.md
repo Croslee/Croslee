@@ -8,7 +8,7 @@
 <tr>
 <td>
 
-**Fourth-year student** at **University of Information Technology (UIT)**.  
+**Final-year student** at **University of Information Technology (UIT)**.  
 Passionate about **Software Development** and **Data Processing**.  
 Currently seeking an **Internship Opportunity** to apply my technical skills in real-world environments.
 
